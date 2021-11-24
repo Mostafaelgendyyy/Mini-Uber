@@ -1,10 +1,6 @@
 public class Driver {
-<<<<<<< HEAD
-    public void print()
+    public void mos()
     {
-        System.out.println('x');
+        
     }
-=======
-    int x;
->>>>>>> Mostafa
 }
