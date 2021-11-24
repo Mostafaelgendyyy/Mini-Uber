@@ -1,4 +1,3 @@
-import kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter;
 
 public class Admin extends User {
     public Admin(String userName, String mobileNum, String email, String passWord) {
